@@ -29,6 +29,7 @@ Altura = 7
 AreaTriangulo = (Base*Altura)/2
 ```
 
+
 #Area rectangulo
 ```{r}
 Lado1 = 3
