@@ -1,0 +1,18 @@
+---
+title: "Areas"
+author: "Mario Izquierdo Puchades"
+date: "2026-02-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Area circulo
+
+```{r}
+r = 0.5
+Area = pi*r^2
+```
+
