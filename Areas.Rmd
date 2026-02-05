@@ -22,3 +22,17 @@ Area = pi*r^2
 Lado = 3
 AreaCuadrado = Lado^2
 ```
+#Area triangulo
+```{r}
+Base = 4
+Altura = 7
+AreaTriangulo = (Base*Altura)/2
+```
+
+#Area rectangulo
+```{r}
+Lado1 = 3
+Lado2 = 4
+AreaRectangulo = Lado1*Lado2
+```
+
